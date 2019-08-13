@@ -134,3 +134,4 @@ out/production/KotlinProgramming/chap06/section3/ObjectDeclarationKt.class
 out/production/KotlinProgramming/chap06/section3/Hobby.class
 out/production/KotlinProgramming/chap06/section3/CCustomer.class
 out/production/KotlinProgramming/chap06/section3/CCustomer$Companion.class
+*.class
